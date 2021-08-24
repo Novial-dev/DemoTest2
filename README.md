@@ -1,3 +1,8 @@
-#Demo
-THIS IS A TEST
-ThirdText
+if (coffee == ready){
+	mug.hold(hand("Right"));
+	mug.drink.carefully();
+}else{
+	wait()
+}
+
+	
